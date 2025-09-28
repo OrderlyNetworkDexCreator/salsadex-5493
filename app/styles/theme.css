@@ -3,8 +3,8 @@
   --oui-font-size-base: 16px;
 
   /* colors */
-  --oui-color-primary: 212 74 43;
-  --oui-color-primary-light: 233 133 93;
+  --oui-color-primary: 228 138 50;
+  --oui-color-primary-light: 212 74 43;
   --oui-color-primary-darken: 179 37 29;
   --oui-color-primary-contrast: 255 255 255;
 
@@ -65,8 +65,8 @@
   --oui-gradient-danger-start: 153 24 76;
   --oui-gradient-danger-end: 245 97 139;
 
-  --oui-gradient-brand-start: 233 133 93;
-  --oui-gradient-brand-end: 207 88 83;
+  --oui-gradient-brand-start: 212 74 43;
+  --oui-gradient-brand-end: 228 138 50;
   --oui-gradient-brand-stop-start: 6.62%;
   --oui-gradient-brand-stop-end: 86.5%;
   --oui-gradient-brand-angle: 17.44deg;
